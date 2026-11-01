@@ -1,0 +1,28 @@
+{
+  "id": "com.max.notionwatchlist",
+  "version": "1.0.0",
+  "name": "Max's To Watch",
+  "description": "My to-watch list from Notion",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "towatch",
+      "name": "To Watch"
+    },
+    {
+      "type": "series",
+      "id": "towatch",
+      "name": "To Watch"
+    }
+  ]
+}
