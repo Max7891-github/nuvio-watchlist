@@ -1,0 +1,4895 @@
+[
+{
+"id": "tt33764258",
+"type": "movie",
+"name": "The Odyssey",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt9619824",
+"type": "movie",
+"name": "Final Destination: Bloodlines",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11291274",
+"type": "movie",
+"name": "The Unbearable Weight of Massive Talent",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0185937",
+"type": "movie",
+"name": "The Blair Witch Project",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0095705",
+"type": "movie",
+"name": "The Naked Gun: From the Files of Police Squad!",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2424988",
+"type": "movie",
+"name": "Gabbar Is Back",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0066921",
+"type": "movie",
+"name": "A Clockwork Orange",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt23875550",
+"type": "movie",
+"name": "UI",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt5946128",
+"type": "movie",
+"name": "Dear Zindagi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt22022452",
+"type": "movie",
+"name": "Inside Out 2",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1373156",
+"type": "movie",
+"name": "Karthik Calling Karthik",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt17009710",
+"type": "movie",
+"name": "Anatomy of a Fall",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1220719",
+"type": "movie",
+"name": "Ip Man",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt9389998",
+"type": "movie",
+"name": "Pushpa: The Rise - Part 1",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt4701182",
+"type": "movie",
+"name": "Bumblebee",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5755238",
+"type": "movie",
+"name": "Leo",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2209764",
+"type": "movie",
+"name": "Transcendence",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt35538033",
+"type": "movie",
+"name": "Resident Evil",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt36931126",
+"type": "movie",
+"name": "Immortal",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1051906",
+"type": "movie",
+"name": "The Invisible Man",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1109624",
+"type": "movie",
+"name": "Paddington",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0082971",
+"type": "movie",
+"name": "Raiders of the Lost Ark",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0211915",
+"type": "movie",
+"name": "Amélie",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7605074",
+"type": "movie",
+"name": "The Wandering Earth",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt13560574",
+"type": "movie",
+"name": "X",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0325980",
+"type": "movie",
+"name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3390572",
+"type": "movie",
+"name": "Haider",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1570728",
+"type": "movie",
+"name": "Crazy, Stupid, Love.",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0113326",
+"type": "movie",
+"name": "Rumble in the Bronx",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2080374",
+"type": "movie",
+"name": "Steve Jobs",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1305797",
+"type": "movie",
+"name": "Enthiran",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8144834",
+"type": "movie",
+"name": "Section 375",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1670345",
+"type": "movie",
+"name": "Now You See Me",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11083552",
+"type": "movie",
+"name": "Wrath of Man",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27988879",
+"type": "movie",
+"name": "Ramayana",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0433425",
+"type": "movie",
+"name": "Parzania",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1343092",
+"type": "movie",
+"name": "The Great Gatsby",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0407887",
+"type": "movie",
+"name": "The Departed",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0083944",
+"type": "movie",
+"name": "First Blood",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0172684",
+"type": "movie",
+"name": "Kuch Kuch Hota Hai",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8115900",
+"type": "movie",
+"name": "The Bad Guys",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0151804",
+"type": "movie",
+"name": "Office Space",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10366460",
+"type": "movie",
+"name": "CODA",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8092252",
+"type": "movie",
+"name": "Be with You",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt0106333",
+"type": "movie",
+"name": "Baazigar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0441881",
+"type": "movie",
+"name": "Danger Close",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1255953",
+"type": "movie",
+"name": "Incendies",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1403981",
+"type": "movie",
+"name": "Remember Me",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0073486",
+"type": "movie",
+"name": "One Flew Over the Cuckoo's Nest",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3848938",
+"type": "movie",
+"name": "Mr. X",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7027278",
+"type": "movie",
+"name": "Kedarnath",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt6334354",
+"type": "movie",
+"name": "The Suicide Squad",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt15911108",
+"type": "movie",
+"name": "120 Bahadur",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0416449",
+"type": "movie",
+"name": "300",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0432283",
+"type": "movie",
+"name": "Fantastic Mr. Fox",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1582271",
+"type": "movie",
+"name": "The Good Doctor",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1192628",
+"type": "movie",
+"name": "Rango",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0217505",
+"type": "movie",
+"name": "Gangs of New York",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3735246",
+"type": "movie",
+"name": "Bajirao Mastani",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2377938",
+"type": "movie",
+"name": "Special 26",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2906216",
+"type": "movie",
+"name": "Dungeons & Dragons: Honor Among Thieves",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0114746",
+"type": "movie",
+"name": "12 Monkeys",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1922777",
+"type": "movie",
+"name": "Sinister",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5215952",
+"type": "movie",
+"name": "The Wailing",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt0100802",
+"type": "movie",
+"name": "Total Recall",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0274012",
+"type": "movie",
+"name": "Punjabi House",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0375611",
+"type": "movie",
+"name": "Black",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0091251",
+"type": "movie",
+"name": "Come and See",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1084972",
+"type": "movie",
+"name": "Wanted",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0195714",
+"type": "movie",
+"name": "Final Destination",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0109040",
+"type": "movie",
+"name": "Ace Ventura: Pet Detective",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0034583",
+"type": "movie",
+"name": "Casablanca",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0373981",
+"type": "movie",
+"name": "Control",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6920084",
+"type": "movie",
+"name": "Resident Evil: Welcome to Raccoon City",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2905838",
+"type": "movie",
+"name": "Bang Bang",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1798684",
+"type": "movie",
+"name": "Southpaw",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0499375",
+"type": "movie",
+"name": "Guru",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt9477520",
+"type": "movie",
+"name": "Asuran",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7431594",
+"type": "movie",
+"name": "Race 3",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt27441481",
+"type": "movie",
+"name": "Coolie",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt32378175",
+"type": "movie",
+"name": "Haiwaan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt5121000",
+"type": "movie",
+"name": "Aligarh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0056592",
+"type": "movie",
+"name": "To Kill a Mockingbird",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4983780",
+"type": "movie",
+"name": "Maanaadu",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt28102562",
+"type": "movie",
+"name": "Thamma",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0080339",
+"type": "movie",
+"name": "Airplane!",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0240890",
+"type": "movie",
+"name": "Serendipity",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2979920",
+"type": "movie",
+"name": "Bombay Velvet",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0217869",
+"type": "movie",
+"name": "Unbreakable",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt19783734",
+"type": "movie",
+"name": "U Are the Universe",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0107034",
+"type": "movie",
+"name": "The Good Son",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3397884",
+"type": "movie",
+"name": "Sicario",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt14208870",
+"type": "movie",
+"name": "The Fabelmans",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0351283",
+"type": "movie",
+"name": "Madagascar",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7019942",
+"type": "movie",
+"name": "Super Deluxe",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3774114",
+"type": "movie",
+"name": "Snowden",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0978762",
+"type": "movie",
+"name": "Mary and Max",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0105695",
+"type": "movie",
+"name": "Unforgiven",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0238380",
+"type": "movie",
+"name": "Equilibrium",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0415306",
+"type": "movie",
+"name": "Talladega Nights: The Ballad of Ricky Bobby",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0450259",
+"type": "movie",
+"name": "Blood Diamond",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0363589",
+"type": "movie",
+"name": "Elephant",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7218518",
+"type": "movie",
+"name": "Pad Man",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1528854",
+"type": "movie",
+"name": "Daddy's Home",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0109117",
+"type": "movie",
+"name": "Andaz Apna Apna",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0427340",
+"type": "movie",
+"name": "Masters of the Universe",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27610832",
+"type": "movie",
+"name": "Maatrubhumi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt6857112",
+"type": "movie",
+"name": "Us",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt16539454",
+"type": "movie",
+"name": "Pushpa: The Rule - Part 2",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0086879",
+"type": "movie",
+"name": "Amadeus",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0088247",
+"type": "movie",
+"name": "The Terminator",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt31969779",
+"type": "movie",
+"name": "O' Romeo",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1324059",
+"type": "movie",
+"name": "Wake Up Sid",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0052357",
+"type": "movie",
+"name": "Vertigo",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt32223398",
+"type": "movie",
+"name": "Jaat",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0213149",
+"type": "movie",
+"name": "Pearl Harbor",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0281358",
+"type": "movie",
+"name": "A Walk to Remember",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4387040",
+"type": "movie",
+"name": "Airlift",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2582846",
+"type": "movie",
+"name": "The Fault in Our Stars",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0093870",
+"type": "movie",
+"name": "RoboCop",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2140315",
+"type": "movie",
+"name": "Raaz 3",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0780504",
+"type": "movie",
+"name": "Drive",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0495032",
+"type": "movie",
+"name": "Gangster",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8864596",
+"type": "movie",
+"name": "Transformers One",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2872718",
+"type": "movie",
+"name": "Nightcrawler",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1809398",
+"type": "movie",
+"name": "Unbroken",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt29567915",
+"type": "movie",
+"name": "Nuremberg",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0246578",
+"type": "movie",
+"name": "Donnie Darko",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5959980",
+"type": "movie",
+"name": "Vada Chennai",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0871510",
+"type": "movie",
+"name": "Chak De! India",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt39108319",
+"type": "movie",
+"name": "Irumudi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0107362",
+"type": "movie",
+"name": "Last Action Hero",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1185420",
+"type": "movie",
+"name": "Dostana",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0938330",
+"type": "movie",
+"name": "Silent Hill: Revelation",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0878804",
+"type": "movie",
+"name": "The Blind Side",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt17526714",
+"type": "movie",
+"name": "The Substance",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3417422",
+"type": "movie",
+"name": "Drishyam",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0050083",
+"type": "movie",
+"name": "12 Angry Men",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt9764362",
+"type": "movie",
+"name": "The Menu",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt39390582",
+"type": "movie",
+"name": "Hanuman Ansh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1155076",
+"type": "movie",
+"name": "The Karate Kid",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0367594",
+"type": "movie",
+"name": "Charlie and the Chocolate Factory",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27673536",
+"type": "movie",
+"name": "Mardaani 3",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1114740",
+"type": "movie",
+"name": "Paul Blart: Mall Cop",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt23865918",
+"type": "movie",
+"name": "Peddi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0335266",
+"type": "movie",
+"name": "Lost in Translation",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0462504",
+"type": "movie",
+"name": "Rescue Dawn",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8267604",
+"type": "movie",
+"name": "Capernaum",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0054215",
+"type": "movie",
+"name": "Psycho",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0314331",
+"type": "movie",
+"name": "Love Actually",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3404140",
+"type": "movie",
+"name": "The Attorney",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt1569923",
+"type": "movie",
+"name": "Batman: Under the Red Hood",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0090605",
+"type": "movie",
+"name": "Aliens",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0343660",
+"type": "movie",
+"name": "50 First Dates",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0107290",
+"type": "movie",
+"name": "Jurassic Park",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7405458",
+"type": "movie",
+"name": "A Man Called Otto",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt30444418",
+"type": "movie",
+"name": "Santosh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0787524",
+"type": "movie",
+"name": "The Man Who Knew Infinity",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3846674",
+"type": "movie",
+"name": "To All the Boys I've Loved Before",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0152836",
+"type": "movie",
+"name": "Taal",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt26658272",
+"type": "movie",
+"name": "Amar Singh Chamkila",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0837562",
+"type": "movie",
+"name": "Hotel Transylvania",
+"region": "hollywood",
+"status": "rewatch"
+},
+{
+"id": "tt1663202",
+"type": "movie",
+"name": "The Revenant",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0452623",
+"type": "movie",
+"name": "Gone Baby Gone",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0120889",
+"type": "movie",
+"name": "What Dreams May Come",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1433108",
+"type": "movie",
+"name": "Faster",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2350496",
+"type": "movie",
+"name": "The Lunchbox",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1188996",
+"type": "movie",
+"name": "My Name Is Khan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2713180",
+"type": "movie",
+"name": "Fury",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1291150",
+"type": "movie",
+"name": "Teenage Mutant Ninja Turtles",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1821480",
+"type": "movie",
+"name": "Kahaani",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1232829",
+"type": "movie",
+"name": "21 Jump Street",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0175880",
+"type": "movie",
+"name": "Magnolia",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0083866",
+"type": "movie",
+"name": "E.T. the Extra-Terrestrial",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1201607",
+"type": "movie",
+"name": "Harry Potter and the Deathly Hallows: Part 2",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2385104",
+"type": "movie",
+"name": "D-Day",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0182789",
+"type": "movie",
+"name": "Bicentennial Man",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4978342",
+"type": "movie",
+"name": "My Oxford Year",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt20969586",
+"type": "movie",
+"name": "Thunderbolts*",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0454876",
+"type": "movie",
+"name": "Life of Pi",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1065073",
+"type": "movie",
+"name": "Boyhood",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3812366",
+"type": "movie",
+"name": "Ode to My Father",
+"region": "korean",
+"status": "watching"
+},
+{
+"id": "tt0099785",
+"type": "movie",
+"name": "Home Alone",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4600778",
+"type": "movie",
+"name": "Chalk N Duster",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0088031",
+"type": "movie",
+"name": "Saaransh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0453562",
+"type": "movie",
+"name": "42",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6692354",
+"type": "movie",
+"name": "Ittefaq",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0462499",
+"type": "movie",
+"name": "Rambo",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0110076",
+"type": "movie",
+"name": "Hum Aapke Hain Koun..!",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0181689",
+"type": "movie",
+"name": "Minority Report",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0159097",
+"type": "movie",
+"name": "The Virgin Suicides",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0073195",
+"type": "movie",
+"name": "Jaws",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt21867434",
+"type": "movie",
+"name": "BlackBerry",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0396555",
+"type": "movie",
+"name": "Meet the Robinsons",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0097239",
+"type": "movie",
+"name": "Driving Miss Daisy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt41804839",
+"type": "movie",
+"name": "Krishnavataram - Part 1: The Heart (Hridayam)",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0119488",
+"type": "movie",
+"name": "L.A. Confidential",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0112281",
+"type": "movie",
+"name": "Ace Ventura: When Nature Calls",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1527788",
+"type": "movie",
+"name": "The Man from Nowhere",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt0368909",
+"type": "movie",
+"name": "Ong-Bak: The Thai Warrior",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4555426",
+"type": "movie",
+"name": "Darkest Hour",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0284137",
+"type": "movie",
+"name": "Gadar: Ek Prem Katha",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt16431330",
+"type": "movie",
+"name": "A Nice Indian Boy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0047478",
+"type": "movie",
+"name": "Seven Samurai",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0298130",
+"type": "movie",
+"name": "The Ring",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5071886",
+"type": "movie",
+"name": "Kabali",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt32916440",
+"type": "movie",
+"name": "Marty Supreme",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0078788",
+"type": "movie",
+"name": "Apocalypse Now",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0100157",
+"type": "movie",
+"name": "Misery",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2194499",
+"type": "movie",
+"name": "About Time",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0829482",
+"type": "movie",
+"name": "Superbad",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0114234",
+"type": "movie",
+"name": "Rangeela",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt31050594",
+"type": "movie",
+"name": "Mercy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2103267",
+"type": "movie",
+"name": "Adore",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0405159",
+"type": "movie",
+"name": "Million Dollar Baby",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt22818604",
+"type": "movie",
+"name": "Kaathal - The Core",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0095765",
+"type": "movie",
+"name": "Cinema Paradiso",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11138512",
+"type": "movie",
+"name": "The Northman",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3619854",
+"type": "movie",
+"name": "Creature",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0107311",
+"type": "movie",
+"name": "Khalnayak",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt26548265",
+"type": "movie",
+"name": "Maharaja",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt17279496",
+"type": "movie",
+"name": "Civil War",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0102685",
+"type": "movie",
+"name": "Point Break",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4906984",
+"type": "movie",
+"name": "Azhar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0408976",
+"type": "movie",
+"name": "Krishna Cottage",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2267998",
+"type": "movie",
+"name": "Gone Girl",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0859163",
+"type": "movie",
+"name": "The Mummy: Tomb of the Dragon Emperor",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10189514",
+"type": "movie",
+"name": "Soorarai Pottru",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0104797",
+"type": "movie",
+"name": "Malcolm X",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0084787",
+"type": "movie",
+"name": "The Thing",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0258463",
+"type": "movie",
+"name": "The Bourne Identity",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0327597",
+"type": "movie",
+"name": "Coraline",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0167190",
+"type": "movie",
+"name": "Hellboy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4925292",
+"type": "movie",
+"name": "Lady Bird",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4262516",
+"type": "movie",
+"name": "Sanam Re",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt4857264",
+"type": "movie",
+"name": "The Invisible Guest",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2635622",
+"type": "movie",
+"name": "The Attacks of 26/11",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2294449",
+"type": "movie",
+"name": "22 Jump Street",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0307873",
+"type": "movie",
+"name": "Raaz",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt6108090",
+"type": "movie",
+"name": "Secret Superstar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0400234",
+"type": "movie",
+"name": "Black Friday",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt36642456",
+"type": "movie",
+"name": "Haq",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt10172266",
+"type": "movie",
+"name": "Red, White & Royal Blue",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0216817",
+"type": "movie",
+"name": "Hum Saath-Saath Hain",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0291376",
+"type": "movie",
+"name": "Nayak: The Real Hero",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt11145118",
+"type": "movie",
+"name": "Creed III",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27679608",
+"type": "movie",
+"name": "Fateh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1016150",
+"type": "movie",
+"name": "All Quiet on the Western Front",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2872732",
+"type": "movie",
+"name": "Lucy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt21357150",
+"type": "movie",
+"name": "Avengers: Doomsday",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1315981",
+"type": "movie",
+"name": "A Single Man",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0232500",
+"type": "movie",
+"name": "The Fast and the Furious",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1895587",
+"type": "movie",
+"name": "Spotlight",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0266697",
+"type": "movie",
+"name": "Kill Bill: Vol. 1",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0250797",
+"type": "movie",
+"name": "Unfaithful",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt24082438",
+"type": "movie",
+"name": "20 Days in Mariupol",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5717110",
+"type": "movie",
+"name": "Tum Bin II",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0097165",
+"type": "movie",
+"name": "Dead Poets Society",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt13143964",
+"type": "movie",
+"name": "Borat Subsequent Moviefilm",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0376541",
+"type": "movie",
+"name": "Closer",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4535650",
+"type": "movie",
+"name": "Dilwale",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2166214",
+"type": "movie",
+"name": "Khiladi 786",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt4434004",
+"type": "movie",
+"name": "Udta Punjab",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1675434",
+"type": "movie",
+"name": "The Intouchables",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt13028258",
+"type": "movie",
+"name": "A Thursday",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0112573",
+"type": "movie",
+"name": "Braveheart",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8959820",
+"type": "movie",
+"name": "Petta",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt6855466",
+"type": "movie",
+"name": "The Hungry Stones",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0434409",
+"type": "movie",
+"name": "V for Vendetta",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt13131232",
+"type": "movie",
+"name": "Mission Majnu",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0458339",
+"type": "movie",
+"name": "Captain America: The First Avenger",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1327035",
+"type": "movie",
+"name": "Dev.D",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2005151",
+"type": "movie",
+"name": "War Dogs",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0441048",
+"type": "movie",
+"name": "Dhoom 2",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2802144",
+"type": "movie",
+"name": "Kingsman: The Secret Service",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0881320",
+"type": "movie",
+"name": "Sanctum",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4034228",
+"type": "movie",
+"name": "Manchester by the Sea",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5186714",
+"type": "movie",
+"name": "The Salesman",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0278504",
+"type": "movie",
+"name": "Insomnia",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0976026",
+"type": "movie",
+"name": "Cheeni Kum",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1843866",
+"type": "movie",
+"name": "Captain America: The Winter Soldier",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt26657236",
+"type": "movie",
+"name": "Backrooms",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1823672",
+"type": "movie",
+"name": "Chappie",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0085743",
+"type": "movie",
+"name": "Jaane Bhi Do Yaaro",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7131622",
+"type": "movie",
+"name": "Once Upon a Time in... Hollywood",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10233718",
+"type": "movie",
+"name": "Vadh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt16277242",
+"type": "movie",
+"name": "Society of the Snow",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt34206385",
+"type": "movie",
+"name": "Primetime",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt14230458",
+"type": "movie",
+"name": "Poor Things",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11992424",
+"type": "movie",
+"name": "Saptha Sagaradaache Ello - Side A",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0266543",
+"type": "movie",
+"name": "Finding Nemo",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6484982",
+"type": "movie",
+"name": "Newton",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt6967980",
+"type": "movie",
+"name": "Seeking True Love",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0274166",
+"type": "movie",
+"name": "Johnny English",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt37333137",
+"type": "movie",
+"name": "Main Vaapas Aaunga",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt14142060",
+"type": "movie",
+"name": "Rental Family",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3001638",
+"type": "movie",
+"name": "Mary Kom",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt36626888",
+"type": "movie",
+"name": "Ohh My Dog",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3110958",
+"type": "movie",
+"name": "Now You See Me 2",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0490215",
+"type": "movie",
+"name": "Silence",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4635372",
+"type": "movie",
+"name": "Masaan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0093773",
+"type": "movie",
+"name": "Predator",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4846232",
+"type": "movie",
+"name": "Good Time",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0119173",
+"type": "movie",
+"name": "G.I. Jane",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6966692",
+"type": "movie",
+"name": "Green Book",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1992138",
+"type": "movie",
+"name": "Force",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3142232",
+"type": "movie",
+"name": "Heropanti",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3678782",
+"type": "movie",
+"name": "Badlapur",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7294534",
+"type": "movie",
+"name": "Arjun Reddy",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0120667",
+"type": "movie",
+"name": "Fantastic Four",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1028532",
+"type": "movie",
+"name": "Hachi: A Dog's Tale",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1620933",
+"type": "movie",
+"name": "Paan Singh Tomar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8426854",
+"type": "movie",
+"name": "Jalebi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt11286314",
+"type": "movie",
+"name": "Don't Look Up",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4129428",
+"type": "movie",
+"name": "Jagga Jasoos",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt10374610",
+"type": "movie",
+"name": "The Long Walk",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2277860",
+"type": "movie",
+"name": "Finding Dory",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0220832",
+"type": "movie",
+"name": "Vaastav: The Reality",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt31193180",
+"type": "movie",
+"name": "Sinners",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0100095",
+"type": "movie",
+"name": "Maine Pyar Kiya",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0116407",
+"type": "movie",
+"name": "Ghatak",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1285241",
+"type": "movie",
+"name": "Don 2",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7775622",
+"type": "movie",
+"name": "Free Solo",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7919680",
+"type": "movie",
+"name": "Karwaan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0251127",
+"type": "movie",
+"name": "How to Lose a Guy in 10 Days",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0405507",
+"type": "movie",
+"name": "Murder",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2556308",
+"type": "movie",
+"name": "Holiday",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0959337",
+"type": "movie",
+"name": "Revolutionary Road",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2372222",
+"type": "movie",
+"name": "Kick",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7282468",
+"type": "movie",
+"name": "Burning",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt1261047",
+"type": "movie",
+"name": "Gulaal",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt21279420",
+"type": "movie",
+"name": "Emergency",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1504320",
+"type": "movie",
+"name": "The King's Speech",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4873118",
+"type": "movie",
+"name": "The Covenant",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2070649",
+"type": "movie",
+"name": "Silenced",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt15334030",
+"type": "movie",
+"name": "Martin",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0824375",
+"type": "movie",
+"name": "Nishabd",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1637725",
+"type": "movie",
+"name": "Ted",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0033467",
+"type": "movie",
+"name": "Citizen Kane",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0432637",
+"type": "movie",
+"name": "Krrish",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0167404",
+"type": "movie",
+"name": "The Sixth Sense",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0405508",
+"type": "movie",
+"name": "Rang De Basanti",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1099212",
+"type": "movie",
+"name": "Twilight",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt9054970",
+"type": "movie",
+"name": "Doctor G",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1649419",
+"type": "movie",
+"name": "The Impossible",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1833673",
+"type": "movie",
+"name": "Dhoom 3",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7363076",
+"type": "movie",
+"name": "Raid",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0106977",
+"type": "movie",
+"name": "The Fugitive",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2334649",
+"type": "movie",
+"name": "Fruitvale Station",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8413338",
+"type": "movie",
+"name": "Kumbalangi Nights",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0106308",
+"type": "movie",
+"name": "Army of Darkness",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1637688",
+"type": "movie",
+"name": "In Time",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0031381",
+"type": "movie",
+"name": "Gone with the Wind",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0422091",
+"type": "movie",
+"name": "Dhoom",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1562871",
+"type": "movie",
+"name": "Ra.One",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt5165344",
+"type": "movie",
+"name": "Rustom",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0137523",
+"type": "movie",
+"name": "Fight Club",
+"region": "hollywood",
+"status": "rewatch"
+},
+{
+"id": "tt0147800",
+"type": "movie",
+"name": "10 Things I Hate About You",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11581174",
+"type": "movie",
+"name": "Karnan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0467406",
+"type": "movie",
+"name": "Juno",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0822832",
+"type": "movie",
+"name": "Marley & Me",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1172049",
+"type": "movie",
+"name": "Demolition",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt28015403",
+"type": "movie",
+"name": "Heretic",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27050858",
+"type": "movie",
+"name": "Drishyam: The Conclusion",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0110413",
+"type": "movie",
+"name": "Léon: The Professional",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt18925334",
+"type": "movie",
+"name": "Pearl",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1395054",
+"type": "movie",
+"name": "Once Upon a Time in Mumbaai",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3066886",
+"type": "movie",
+"name": "The Amazing Wiplala",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0459293",
+"type": "movie",
+"name": "Gandhi, My Father",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0120812",
+"type": "movie",
+"name": "Rush Hour",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5286444",
+"type": "movie",
+"name": "Neerja",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0104558",
+"type": "movie",
+"name": "Police Story 3: Supercop",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0088763",
+"type": "movie",
+"name": "Back to the Future",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0120663",
+"type": "movie",
+"name": "Eyes Wide Shut",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt30858568",
+"type": "movie",
+"name": "Mirai",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0293429",
+"type": "movie",
+"name": "Mortal Kombat",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1340108",
+"type": "movie",
+"name": "Killer Bean Forever",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0046672",
+"type": "movie",
+"name": "20,000 Leagues Under the Sea",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0118983",
+"type": "movie",
+"name": "Dil To Pagal Hai",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt14647404",
+"type": "movie",
+"name": "Cat Person",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2176013",
+"type": "movie",
+"name": "Jab Tak Hai Jaan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt29623480",
+"type": "movie",
+"name": "The Wild Robot",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0081398",
+"type": "movie",
+"name": "Raging Bull",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6455162",
+"type": "movie",
+"name": "Bhool Bhulaiyaa 2",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2023587",
+"type": "movie",
+"name": "Mama",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5109280",
+"type": "movie",
+"name": "Raya and the Last Dragon",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6019206",
+"type": "movie",
+"name": "Kill Bill: The Whole Bloody Affair",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0449994",
+"type": "movie",
+"name": "Jodhaa Akbar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1392170",
+"type": "movie",
+"name": "The Hunger Games",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt38123566",
+"type": "movie",
+"name": "With Love",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1727824",
+"type": "movie",
+"name": "Bohemian Rhapsody",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt37544992",
+"type": "movie",
+"name": "Baby Do Die Do",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0066763",
+"type": "movie",
+"name": "Anand",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8130968",
+"type": "movie",
+"name": "Badla",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt33307144",
+"type": "movie",
+"name": "Court - State Vs. A Nobody",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt10243672",
+"type": "movie",
+"name": "Joy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1024943",
+"type": "movie",
+"name": "Om Shanti Om",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0095016",
+"type": "movie",
+"name": "Die Hard",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5456546",
+"type": "movie",
+"name": "Judwaa 2",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0090756",
+"type": "movie",
+"name": "Blue Velvet",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0114814",
+"type": "movie",
+"name": "The Usual Suspects",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27911000",
+"type": "movie",
+"name": "Terrifier 3",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1535108",
+"type": "movie",
+"name": "Elysium",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6878038",
+"type": "movie",
+"name": "A Taxi Driver",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt0325710",
+"type": "movie",
+"name": "The Last Samurai",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2168910",
+"type": "movie",
+"name": "Cocktail",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt12915716",
+"type": "movie",
+"name": "Adipurush",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt33996113",
+"type": "movie",
+"name": "Param Sundari",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2213054",
+"type": "movie",
+"name": "Kai Po Che",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0098635",
+"type": "movie",
+"name": "When Harry Met Sally...",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0845448",
+"type": "movie",
+"name": "Dhamaal",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0816711",
+"type": "movie",
+"name": "World War Z",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1620719",
+"type": "movie",
+"name": "Dabangg",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1057500",
+"type": "movie",
+"name": "Invictus",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt26733325",
+"type": "movie",
+"name": "Homebound",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2429640",
+"type": "movie",
+"name": "Murder 3",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1462758",
+"type": "movie",
+"name": "Buried",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0253474",
+"type": "movie",
+"name": "The Pianist",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5690142",
+"type": "movie",
+"name": "Mom",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3840534",
+"type": "movie",
+"name": "Junooniyat",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt15309708",
+"type": "movie",
+"name": "Uunchai",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1954206",
+"type": "movie",
+"name": "The Dirty Picture",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0062622",
+"type": "movie",
+"name": "2001: A Space Odyssey",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt23790740",
+"type": "movie",
+"name": "Srikanth",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0323013",
+"type": "movie",
+"name": "Lakshya",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0458352",
+"type": "movie",
+"name": "The Devil Wears Prada",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2082197",
+"type": "movie",
+"name": "Barfi!",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt4276820",
+"type": "movie",
+"name": "The Founder",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1396208",
+"type": "movie",
+"name": "Action Replayy",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0218967",
+"type": "movie",
+"name": "The Family Man (2000 film)",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27539086",
+"type": "movie",
+"name": "800",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt6266538",
+"type": "movie",
+"name": "Vice",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0087800",
+"type": "movie",
+"name": "A Nightmare on Elm Street",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4864932",
+"type": "movie",
+"name": "Baaghi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2199711",
+"type": "movie",
+"name": "Vishwaroopam",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0920464",
+"type": "movie",
+"name": "Manorama: Six Feet Under",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1104001",
+"type": "movie",
+"name": "Tron: Legacy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6409416",
+"type": "movie",
+"name": "The Elder One",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0353969",
+"type": "movie",
+"name": "Memories of Murder",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt14152140",
+"type": "movie",
+"name": "Darlings",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0953306",
+"type": "movie",
+"name": "Anwar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0080179",
+"type": "movie",
+"name": "Drunken Master",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1659337",
+"type": "movie",
+"name": "The Perks of Being a Wallflower",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1318514",
+"type": "movie",
+"name": "Rise of the Planet of the Apes",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1610452",
+"type": "movie",
+"name": "Band Baaja Baaraat",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1219289",
+"type": "movie",
+"name": "Limitless",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1340838",
+"type": "movie",
+"name": "Raaz: The Mystery Continues",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0120611",
+"type": "movie",
+"name": "Blade",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0064116",
+"type": "movie",
+"name": "Once Upon a Time in the West",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0347473",
+"type": "movie",
+"name": "Main Hoon Na",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt36596965",
+"type": "movie",
+"name": "Mandaadi",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1591095",
+"type": "movie",
+"name": "Insidious",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0421239",
+"type": "movie",
+"name": "Red Eye",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6514196",
+"type": "movie",
+"name": "Baazaar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt16426418",
+"type": "movie",
+"name": "Challengers",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7518786",
+"type": "movie",
+"name": "'83",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt4332232",
+"type": "movie",
+"name": "Fractured",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10370710",
+"type": "movie",
+"name": "The Worst Person in the World",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6129302",
+"type": "movie",
+"name": "Bhavesh Joshi Superhero",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1446714",
+"type": "movie",
+"name": "Prometheus",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3488710",
+"type": "movie",
+"name": "The Walk",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0402399",
+"type": "movie",
+"name": "The New World",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0077651",
+"type": "movie",
+"name": "Halloween",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0455944",
+"type": "movie",
+"name": "The Equalizer",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6264654",
+"type": "movie",
+"name": "Free Guy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1605783",
+"type": "movie",
+"name": "Midnight in Paris",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0102258",
+"type": "movie",
+"name": "Lamhe",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0343818",
+"type": "movie",
+"name": "I, Robot",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0109134",
+"type": "movie",
+"name": "Anjaam",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1029234",
+"type": "movie",
+"name": "Martyrs",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1677720",
+"type": "movie",
+"name": "Ready Player One",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2798920",
+"type": "movie",
+"name": "Annihilation",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0338751",
+"type": "movie",
+"name": "The Aviator",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0758758",
+"type": "movie",
+"name": "Into the Wild",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5882970",
+"type": "movie",
+"name": "Tubelight",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0087843",
+"type": "movie",
+"name": "Once Upon a Time in America",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1371111",
+"type": "movie",
+"name": "Cloud Atlas",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0092005",
+"type": "movie",
+"name": "Stand by Me",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6826438",
+"type": "movie",
+"name": "Parmanu: The Story of Pokhran",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3410408",
+"type": "movie",
+"name": "Rocky Handsome",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0952640",
+"type": "movie",
+"name": "Alvin and the Chipmunks",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1312221",
+"type": "movie",
+"name": "Frankenstein",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0359950",
+"type": "movie",
+"name": "The Secret Life of Walter Mitty",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2345759",
+"type": "movie",
+"name": "The Mummy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27530512",
+"type": "movie",
+"name": "Toxic",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1242460",
+"type": "movie",
+"name": "We Need to Talk About Kevin",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0190332",
+"type": "movie",
+"name": "Crouching Tiger, Hidden Dragon",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5537002",
+"type": "movie",
+"name": "Killers of the Flower Moon",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0107048",
+"type": "movie",
+"name": "Groundhog Day",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7784604",
+"type": "movie",
+"name": "Hereditary",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1490017",
+"type": "movie",
+"name": "The Lego Movie",
+"region": "hollywood",
+"status": "rewatch"
+},
+{
+"id": "tt0449999",
+"type": "movie",
+"name": "Kabhi Alvida Naa Kehna",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt29247040",
+"type": "movie",
+"name": "Baramulla",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0449059",
+"type": "movie",
+"name": "Little Miss Sunshine",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0088944",
+"type": "movie",
+"name": "Commando",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5726616",
+"type": "movie",
+"name": "Call Me by Your Name",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10579952",
+"type": "movie",
+"name": "Master",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0110475",
+"type": "movie",
+"name": "The Mask",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0116630",
+"type": "movie",
+"name": "Indian",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0401383",
+"type": "movie",
+"name": "The Diving Bell and the Butterfly",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt3890160",
+"type": "movie",
+"name": "Baby Driver",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1856101",
+"type": "movie",
+"name": "Blade Runner 2049",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8590896",
+"type": "movie",
+"name": "Geetha Govindam",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt14253846",
+"type": "movie",
+"name": "Speak No Evil",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0311429",
+"type": "movie",
+"name": "The League of Extraordinary Gentlemen",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0085794",
+"type": "movie",
+"name": "The King of Comedy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0391198",
+"type": "movie",
+"name": "The Grudge",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2119532",
+"type": "movie",
+"name": "Hacksaw Ridge",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0477302",
+"type": "movie",
+"name": "Extremely Loud & Incredibly Close",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8647400",
+"type": "movie",
+"name": "De De Pyaar De",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3405236",
+"type": "movie",
+"name": "Raees",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt4975722",
+"type": "movie",
+"name": "Moonlight",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt12361974",
+"type": "movie",
+"name": "Zack Snyder's Justice League",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt24226474",
+"type": "movie",
+"name": "Jigarthanda Double X",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2015381",
+"type": "movie",
+"name": "Guardians of the Galaxy",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt36118360",
+"type": "movie",
+"name": "Tu Yaa Main",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt27564844",
+"type": "movie",
+"name": "Iron Lung",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0456912",
+"type": "movie",
+"name": "A Bittersweet Life",
+"region": "korean",
+"status": "upnext"
+},
+{
+"id": "tt27511275",
+"type": "movie",
+"name": "8 A.M. Metro",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0315642",
+"type": "movie",
+"name": "Wazir",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8589698",
+"type": "movie",
+"name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8869978",
+"type": "movie",
+"name": "Batla House",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0109555",
+"type": "movie",
+"name": "Darr",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0495034",
+"type": "movie",
+"name": "Golmaal: Fun Unlimited",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt26443597",
+"type": "movie",
+"name": "Zootopia 2",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8503618",
+"type": "movie",
+"name": "Hamilton",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt34339725",
+"type": "movie",
+"name": "Mirzapur: The Movie",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2882328",
+"type": "movie",
+"name": "Ugly",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1434447",
+"type": "movie",
+"name": "Rocket Singh: Salesman of the Year",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0317248",
+"type": "movie",
+"name": "City of God",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0109686",
+"type": "movie",
+"name": "Dumb and Dumber",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt30017619",
+"type": "movie",
+"name": "The Bad Guys 2",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11604676",
+"type": "movie",
+"name": "Nayattu",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0417148",
+"type": "movie",
+"name": "Snakes on a Plane",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt26758372",
+"type": "movie",
+"name": "Meiyazhagan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1596363",
+"type": "movie",
+"name": "The Big Short",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1217209",
+"type": "movie",
+"name": "Brave",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0038650",
+"type": "movie",
+"name": "It's a Wonderful Life",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0081505",
+"type": "movie",
+"name": "The Shining",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0367110",
+"type": "movie",
+"name": "Swades",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0936501",
+"type": "movie",
+"name": "Taken",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0384537",
+"type": "movie",
+"name": "Silent Hill",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt34498111",
+"type": "movie",
+"name": "Chand Mera Dil",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2677064",
+"type": "movie",
+"name": "Vishwaroopam 2",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1753383",
+"type": "movie",
+"name": "A Dog's Purpose",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt21262240",
+"type": "movie",
+"name": "Mission Raniganj",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2056785",
+"type": "movie",
+"name": "Wildwood",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10048342",
+"type": "series",
+"name": "The Queen's Gambit",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2788316",
+"type": "series",
+"name": "Shōgun",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11198330",
+"type": "series",
+"name": "House of the Dragon",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7660850",
+"type": "series",
+"name": "Succession",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt33503491",
+"type": "series",
+"name": "When the Phone Rings",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt29353885",
+"type": "series",
+"name": "Invisible Boys",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6470478",
+"type": "series",
+"name": "The Good Doctor",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt5994364",
+"type": "series",
+"name": "Guardian: The Lonely and Great God",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt31924802",
+"type": "series",
+"name": "The Revolutionaries",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt35785804",
+"type": "series",
+"name": "Guri Dhairya Ki Love Story",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2085059",
+"type": "series",
+"name": "Black Mirror",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt18923754",
+"type": "series",
+"name": "Daredevil: Born Again",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt26471411",
+"type": "series",
+"name": "When Life Gives You Tangerines",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt11912196",
+"type": "series",
+"name": "Asur: Welcome to Your Dark Side",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0460649",
+"type": "series",
+"name": "How I Met Your Mother",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt21279678",
+"type": "series",
+"name": "NCR Days",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt13669128",
+"type": "series",
+"name": "Doom at Your Service",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt36643714",
+"type": "series",
+"name": "Operation Safed Sagar",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7927936",
+"type": "series",
+"name": "Flames",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt14819828",
+"type": "series",
+"name": "Business Proposal",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt4742876",
+"type": "series",
+"name": "TVF Pitchers",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt9398466",
+"type": "series",
+"name": "Delhi Crime",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt9288030",
+"type": "series",
+"name": "Reacher",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10850932",
+"type": "series",
+"name": "Crash Landing on You",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt0401916",
+"type": "series",
+"name": "C.I.D.",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt29382845",
+"type": "series",
+"name": "The Inspired Unemployed (Impractical Jokers)",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1632701",
+"type": "series",
+"name": "Suits",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2442560",
+"type": "series",
+"name": "Peaky Blinders",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt7767422",
+"type": "series",
+"name": "Sex Education",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0103359",
+"type": "series",
+"name": "Batman: The Animated Series",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt35335046",
+"type": "series",
+"name": "Taskaree: The Smuggler's Web",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8772296",
+"type": "series",
+"name": "Euphoria",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0417299",
+"type": "series",
+"name": "Avatar: The Last Airbender",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt23052950",
+"type": "series",
+"name": "Deli Boys",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6468322",
+"type": "series",
+"name": "Money Heist",
+"region": "hollywood",
+"status": "upnext"
+},
+{
+"id": "tt4574334",
+"type": "series",
+"name": "Stranger Things",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2861424",
+"type": "series",
+"name": "Rick and Morty",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27497448",
+"type": "series",
+"name": "A Knight of the Seven Kingdoms",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt14650074",
+"type": "series",
+"name": "Dhindora",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3212600",
+"type": "series",
+"name": "Mahabharat (2013)",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt45403168",
+"type": "series",
+"name": "En coma",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt26750072",
+"type": "series",
+"name": "SK Sir Ki Class",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1567432",
+"type": "series",
+"name": "Teen Wolf",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11407524",
+"type": "series",
+"name": "Hostel Daze",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7741824",
+"type": "series",
+"name": "The Boss Baby: Back in Business",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt12637874",
+"type": "series",
+"name": "Fallout",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt12714854",
+"type": "series",
+"name": "Mumbai Diaries",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt9544034",
+"type": "series",
+"name": "The Family Man",
+"region": "hollywood",
+"status": "watching"
+},
+{
+"id": "tt39665097",
+"type": "series",
+"name": "Musafir Cafe",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt3322312",
+"type": "series",
+"name": "Daredevil",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1837492",
+"type": "series",
+"name": "13 Reasons Why",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt10986410",
+"type": "series",
+"name": "Ted Lasso",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt23488694",
+"type": "series",
+"name": "Overcompensating",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0455275",
+"type": "series",
+"name": "Prison Break",
+"region": "hollywood",
+"status": "watching"
+},
+{
+"id": "tt7137906",
+"type": "series",
+"name": "When They See Us",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt27853283",
+"type": "series",
+"name": "Kohrra",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1856010",
+"type": "series",
+"name": "House of Cards",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0773262",
+"type": "series",
+"name": "Dexter",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt13146488",
+"type": "series",
+"name": "Peacemaker",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2297757",
+"type": "series",
+"name": "Nathan for You",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11854694",
+"type": "series",
+"name": "Special OPS",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt1475582",
+"type": "series",
+"name": "Sherlock",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt11126994",
+"type": "series",
+"name": "Arcane",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1442462",
+"type": "series",
+"name": "The Good Wife",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0804503",
+"type": "series",
+"name": "Mad Men",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt22297178",
+"type": "series",
+"name": "Scoop",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt35495073",
+"type": "series",
+"name": "Heated Rivalry",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0903747",
+"type": "series",
+"name": "Breaking Bad",
+"region": "hollywood",
+"status": "rewatch"
+},
+{
+"id": "tt10638036",
+"type": "series",
+"name": "Heartstopper",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt14664414",
+"type": "series",
+"name": "Young Royals",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0108778",
+"type": "series",
+"name": "Friends",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0141842",
+"type": "series",
+"name": "The Sopranos",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1710308",
+"type": "series",
+"name": "Regular Show",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt14688458",
+"type": "series",
+"name": "Silo",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt22202452",
+"type": "series",
+"name": "Pluribus",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt4834206",
+"type": "series",
+"name": "A Series of Unfortunate Events",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt26545992",
+"type": "series",
+"name": "Lanterns",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt31898201",
+"type": "series",
+"name": "Khauf",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt14979052",
+"type": "series",
+"name": "Happiness",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt2707408",
+"type": "series",
+"name": "Narcos",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6466208",
+"type": "series",
+"name": "Breathe",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2242025",
+"type": "series",
+"name": "Hotel Hell",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt30263074",
+"type": "series",
+"name": "Sapne Vs Everyone",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2467372",
+"type": "series",
+"name": "Brooklyn Nine-Nine",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt13443470",
+"type": "series",
+"name": "Wednesday",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt24073140",
+"type": "series",
+"name": "Physics Wallah",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt0944947",
+"type": "series",
+"name": "Game of Thrones",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0158417",
+"type": "series",
+"name": "Mahabharat",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt31844233",
+"type": "series",
+"name": "Daldal",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt19072562",
+"type": "series",
+"name": "Kaala Paani",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt8420184",
+"type": "series",
+"name": "The Last Dance",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt31324295",
+"type": "series",
+"name": "Lovely Runner",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt12451520",
+"type": "series",
+"name": "It's Okay to Not Be Okay",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt3581932",
+"type": "series",
+"name": "And Then There Were None",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt2761354",
+"type": "series",
+"name": "Nowhere Boys",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt6741278",
+"type": "series",
+"name": "Invincible",
+"region": "hollywood",
+"status": "watching"
+},
+{
+"id": "tt0386676",
+"type": "series",
+"name": "The Office",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt9337588",
+"type": "series",
+"name": "Leila",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt7335184",
+"type": "series",
+"name": "You",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt8595766",
+"type": "series",
+"name": "Yeh Meri Family",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt35870921",
+"type": "series",
+"name": "Raakh",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt2802850",
+"type": "series",
+"name": "Fargo",
+"region": "hollywood",
+"status": "upnext"
+},
+{
+"id": "tt0306414",
+"type": "series",
+"name": "The Wire",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0185906",
+"type": "series",
+"name": "Band of Brothers",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt33546863",
+"type": "series",
+"name": "Off Campus",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt14420552",
+"type": "series",
+"name": "Maharani",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt13173144",
+"type": "series",
+"name": "Resident Evil: Infinite Darkness",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt1520211",
+"type": "series",
+"name": "The Walking Dead",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt35674970",
+"type": "series",
+"name": "Bhay: The Gaurav Tiwari Mystery",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt13274038",
+"type": "series",
+"name": "True Beauty",
+"region": "korean",
+"status": "want"
+},
+{
+"id": "tt11280740",
+"type": "series",
+"name": "Severance",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt35674465",
+"type": "series",
+"name": "Made in India: A Titan Story",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt19244304",
+"type": "series",
+"name": "It: Welcome to Derry",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt28306965",
+"type": "series",
+"name": "The Hunt for Veerappan",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt22297578",
+"type": "series",
+"name": "Cat",
+"region": "bollywood",
+"status": "want"
+},
+{
+"id": "tt15435876",
+"type": "series",
+"name": "The Penguin",
+"region": "hollywood",
+"status": "want"
+},
+{
+"id": "tt0347149",
+"type": "movie",
+"name": "Howl's Moving Castle",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt2210479",
+"type": "movie",
+"name": "Berserk: The Golden Age Arc I - The Egg of the King",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0113824",
+"type": "movie",
+"name": "Whisper of the Heart",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt36592690",
+"type": "series",
+"name": "The Fragrant Flower Blooms with Dignity",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0095327",
+"type": "movie",
+"name": "Grave of the Fireflies",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt12831098",
+"type": "series",
+"name": "Moriarty the Patriot",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt2098220",
+"type": "series",
+"name": "Hunter X Hunter",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt30217403",
+"type": "series",
+"name": "Dandadan",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0096283",
+"type": "movie",
+"name": "My Neighbor Totoro",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt5249462",
+"type": "series",
+"name": "Erased",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0156887",
+"type": "movie",
+"name": "Perfect Blue",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt32639706",
+"type": "series",
+"name": "Blue Box",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt1355642",
+"type": "series",
+"name": "Fullmetal Alchemist: Brotherhood",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt5514358",
+"type": "series",
+"name": "Steins;Gate 0",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt5607616",
+"type": "series",
+"name": "Re: Zero - Starting Life in Another World",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt13103134",
+"type": "series",
+"name": "Horimiya",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0245429",
+"type": "movie",
+"name": "Spirited Away",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt10233448",
+"type": "series",
+"name": "Vinland Saga",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt7965802",
+"type": "series",
+"name": "Megalo Box",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt2359704",
+"type": "series",
+"name": "JoJo's Bizarre Adventure",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt32820897",
+"type": "movie",
+"name": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt6587046",
+"type": "movie",
+"name": "The Boy and the Heron",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt5897304",
+"type": "series",
+"name": "Mob Psycho 100",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0988824",
+"type": "series",
+"name": "Naruto: Shippuden",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0169858",
+"type": "movie",
+"name": "Neon Genesis Evangelion: The End of Evangelion",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt9335498",
+"type": "series",
+"name": "Demon Slayer: Kimetsu no Yaiba",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt3895150",
+"type": "series",
+"name": "Your Lie in April",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt22248376",
+"type": "series",
+"name": "Frieren: Beyond Journey's End",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt1913273",
+"type": "series",
+"name": "Anohana: The Flower We Saw That Day",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0248119",
+"type": "series",
+"name": "JoJo's Bizarre Adventure (1993 OVA)",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0213338",
+"type": "series",
+"name": "Cowboy Bebop",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0994314",
+"type": "series",
+"name": "Code Geass: Lelouch of the Rebellion",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0112159",
+"type": "series",
+"name": "Neon Genesis Evangelion",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt0434665",
+"type": "series",
+"name": "Bleach",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt7263328",
+"type": "series",
+"name": "Classroom of the Elite",
+"region": "anime",
+"status": "want"
+},
+{
+"id": "tt7078180",
+"type": "series",
+"name": "Violet Evergarden",
+"region": "anime",
+"status": "want"
+}
+]
