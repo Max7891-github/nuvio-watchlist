@@ -11,6 +11,7 @@ import shutil
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
@@ -82,26 +83,89 @@ def prop(page, name):
     return None
 
 
+# ---------- auto-find missing IMDb links ----------
+def norm(t):
+    return re.sub(r"[^a-z0-9]+", " ", t.lower().replace("&", "and")).strip()
+
+
+def imdb_suggest(query):
+    q = norm(query)
+    if not q:
+        return []
+    url = f"https://v2.sg.media-imdb.com/suggestion/{q[0]}/{urllib.parse.quote(q)}.json"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            return json.load(r).get("d", [])
+    except Exception:
+        return []
+
+
+def find_imdb(name, typ, year):
+    """Return a tt id only when there's exactly one sensible match."""
+    m = re.search(r"\((\d{4})\)", name)
+    year = year or (int(m.group(1)) if m else None)
+    base = re.sub(r"\s*\((\d{4}|film|movie|show|series)\)", "", name, flags=re.I)
+    base = re.sub(r"\s+S\d+$", "", base).strip()
+    alts = [base] + re.findall(r"\(([^)]+)\)", base)
+    base_clean = re.sub(r"\s*\([^)]*\)", "", base).strip()
+    if base_clean not in alts:
+        alts.insert(0, base_clean)
+    kinds = {"Movie": ("feature", "TV movie"), "Show": ("TV series", "TV mini-series")}.get(
+        typ, ("feature", "TV movie", "TV series", "TV mini-series", "TV special"))
+    for alt in alts:
+        hits = [h for h in imdb_suggest(alt)
+                if h.get("id", "").startswith("tt") and h.get("q") in kinds
+                and norm(h.get("l", "")) == norm(alt)]
+        if year:
+            hits = [h for h in hits if h.get("y") and abs(h["y"] - year) <= 1]
+        if len(hits) == 1:
+            return hits[0]["id"]
+        if len(hits) > 1:
+            return None  # ambiguous: leave it for a human
+    return None
+
+
+def save_link(page_id, imdb):
+    req = urllib.request.Request(
+        f"https://api.notion.com/v1/pages/{page_id}", method="PATCH",
+        data=json.dumps({"properties": {"Link": {"url": f"https://www.imdb.com/title/{imdb}/"}}}).encode(),
+        headers={"Authorization": f"Bearer {os.environ['NOTION_TOKEN']}",
+                 "Notion-Version": "2022-06-28", "Content-Type": "application/json"})
+    try:
+        urllib.request.urlopen(req, timeout=20).read()
+        return True
+    except urllib.error.HTTPError as e:
+        print(f"  couldn't save link to Notion ({e.code}) — give the integration edit access")
+        return False
+
+
 def load_watchlist():
-    items, skipped, seen = [], [], set()
+    items, skipped, found, seen = [], [], [], set()
     for page in notion_pages():
         typ, name = prop(page, "Type"), prop(page, "Name") or "?"
         if typ not in ("Movie", "Show", "Anime"):
             continue
         m = re.search(r"(tt\d+)", prop(page, "Link") or "")
-        if not m:
+        imdb = m.group(1) if m else find_imdb(name, typ, prop(page, "Year"))
+        if not imdb:
             skipped.append(name)
             continue
-        if m.group(1) in seen:
+        if not m:
+            found.append(f"{name} → {imdb}")
+            save_link(page["id"], imdb)
+        if imdb in seen:
             continue
-        seen.add(m.group(1))
+        seen.add(imdb)
         items.append({
-            "id": m.group(1),
+            "id": imdb,
             "type": {"Movie": "movie", "Show": "series"}.get(typ, "anime"),
             "name": name,
             "region": "anime" if typ == "Anime" else REGION_BY_CATEGORY.get(prop(page, "Category")),
             "status": WANTED[prop(page, "Status")],
         })
+    if found:
+        print(f"Found and saved {len(found)} IMDb links:\n  " + "\n  ".join(found))
     print(f"Notion: {len(items)} titles" + (f", skipped {len(skipped)} with no IMDb link: "
           + ", ".join(skipped) if skipped else ""))
     return items
