@@ -3,9 +3,9 @@ name: Build addon
 on:
   push:
     branches: [main]
-  workflow_dispatch:
+  workflow_dispatch:        # the "Run workflow" button = instant refresh
   schedule:
-    - cron: "0 18 * * 0"
+    - cron: "17 */3 * * *"  # every 3 hours, pulls your latest Notion list
 
 permissions:
   contents: read
@@ -22,6 +22,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 build.py
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
