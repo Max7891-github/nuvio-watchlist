@@ -114,11 +114,12 @@ def find_imdb(name, typ, year):
     kinds = {"Movie": ("feature", "TV movie"), "Show": ("TV series", "TV mini-series")}.get(
         typ, ("feature", "TV movie", "TV series", "TV mini-series", "TV special"))
     for alt in alts:
-        hits = [h for h in imdb_suggest(alt)
-                if h.get("id", "").startswith("tt") and h.get("q") in kinds
-                and norm(h.get("l", "")) == norm(alt)]
+        titles = [h for h in imdb_suggest(alt) if h.get("id", "").startswith("tt")]
+        hits = [h for h in titles if h.get("q") in kinds and norm(h.get("l", "")) == norm(alt)]
         if year:
             hits = [h for h in hits if h.get("y") and abs(h["y"] - year) <= 1]
+        elif hits and titles and hits[0] is not titles[0]:
+            hits = []  # no year and it isn't IMDb's top result: too risky, skip
         if len(hits) == 1:
             return hits[0]["id"]
         if len(hits) > 1:
