@@ -27,9 +27,27 @@ WANTED = {"Want": "want", "Later": "want", "Up next": "upnext",
 REGION_BY_CATEGORY = {"Bollywood / Indian": "bollywood", "Korean Films": "korean",
                       "K-Dramas": "korean", "Anime": "anime"}
 
+MOOD_ROWS = [  # (catalog id, row name, Notion Mood tag)
+    ("hype", "🔥 Fast & Hype", "🔥 Hype"),
+    ("cry", "😭 Emotional", "😭 Cry"),
+    ("laugh", "😂 Funny", "😂 Laugh"),
+    ("think", "🧠 Mind-Bending", "🧠 Think"),
+    ("dark", "🖤 Dark", "🖤 Dark"),
+    ("scared", "😱 Scary", "😱 Scared"),
+    ("romantic", "💕 Romantic", "💕 Romantic"),
+    ("inspired", "💪 Inspiring", "💪 Inspired"),
+    ("chill", "🌙 Chill", "🌙 Chill"),
+    ("healing", "🩹 Comfort Watch", "🩹 Healing"),
+    ("learn", "📚 Learn Something", "📚 Learn"),
+]
+
 ROWS = [  # (catalog id, row name, filter)
     ("upnext", "Up Next", lambda m: m["_status"] in ("upnext", "watching")),
     ("top", "Top Rated", lambda m: True),
+] + [(cid, name, (lambda tag: lambda m: tag in m["_moods"])(tag)) for cid, name, tag in MOOD_ROWS] + [
+    ("new", "🆕 New (2020+)", lambda m: (m["_year"] or 0) >= 2020),
+    ("mid", "📼 2000–2019", lambda m: 2000 <= (m["_year"] or 0) <= 2019),
+    ("old", "🎞️ Old (pre-2000)", lambda m: 0 < (m["_year"] or 0) < 2000),
     ("bollywood", "Bollywood & Indian", lambda m: m["_region"] == "bollywood"),
     ("hollywood", "Hollywood & More", lambda m: m["_region"] == "hollywood"),
     ("korean", "Korean", lambda m: m["_region"] == "korean"),
@@ -80,6 +98,8 @@ def prop(page, name):
         return (p["select"] or {}).get("name")
     if t in ("url", "number"):
         return p[t]
+    if t == "multi_select":
+        return [o["name"] for o in p["multi_select"]]
     return None
 
 
@@ -164,6 +184,8 @@ def load_watchlist():
             "name": name,
             "region": "anime" if typ == "Anime" else REGION_BY_CATEGORY.get(prop(page, "Category")),
             "status": WANTED[prop(page, "Status")],
+            "moods": prop(page, "Mood") or [],
+            "year": prop(page, "Year"),
         })
     if found:
         print(f"Found and saved {len(found)} IMDb links:\n  " + "\n  ".join(found))
@@ -237,6 +259,9 @@ def main(items=None):
         for kind in ("poster", "background", "logo"):
             m.setdefault(kind, f"https://images.metahub.space/{kind}/medium/{item['id']}/img")
         m["_region"], m["_status"] = guess_region(item, d), item["status"]
+        m["_moods"] = item.get("moods", [])
+        y = item.get("year") or re.match(r"\d{4}", str(d.get("year") or d.get("releaseInfo") or ""))
+        m["_year"] = int(y.group(0)) if hasattr(y, "group") else (int(y) if y else None)
         metas.append(m)
     print(f"Got details for {sum(1 for d in details if d)}/{len(items)} titles")
 
@@ -282,7 +307,7 @@ def main(items=None):
 
     write("manifest.json", {
         "id": "com.max.notionwatchlist",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "name": "Max's To Watch",
         "description": "My to-watch list, synced live from Notion every 3 hours.",
         "resources": ["catalog", "stream"],
